@@ -26,8 +26,5 @@ Here's a list of things that need to get done:
 
  ## Screenshots
 
- <img src="screenshot-1.png" alt="The IP list screen. Per page, minimum amount and sort order configurable." />
- <small>The IP list screen. Per page, minimum amount and sort order configurable.</small>
-
- <img src="screenshot-2.png" alt="The export screen. The IP addresses come pre selected. Just copy them to clipboard." />
- <small>The export screen. The IP addresses come pre selected. Just copy them to clipboard.</small>
+![The IP list screen. Per page, minimum amount and sort order configurable.](screenshot-1.png "List Screen")
+![The export screen. The IP addresses come pre selected. Just copy them to clipboard.](screenshot-2.png "Export Screen")
