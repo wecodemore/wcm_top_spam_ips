@@ -1,7 +1,7 @@
 <?php
 defined( 'ABSPATH' ) OR exit;
 /**
- * Plugin Name: Top Spam IPs
+ * Plugin Name: (WCM) Top Spam IPs
  * Description: Adds a toolbar admin menu page that lists the top spam commenter IPs. Allows exporting to quickly build cross domain generated block lists in case of botnet attacks.
  * Plugin URI:  https://github.com/wecodemore/
  * Author:      Franz Josef Kaiser <wecodemore@gmail.com>
