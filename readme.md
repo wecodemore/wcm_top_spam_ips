@@ -24,7 +24,7 @@ Here's a list of things that need to get done:
  Thanks in advance for any contributions. Your work will be honored with a link to your
  wordpress dot org profile in the "Contributors" section of the Readme file.
 
- ## Screenshots
+## Screenshots
 
 A short preview with too less Spam IP addresses.
 
