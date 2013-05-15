@@ -53,6 +53,11 @@ allow from all
 1. Upload the zip file to the <code>/wp-content/plugins/</code> directory,
 2. Activate the plugin through the <code>Plugins</code> menu in WordPress.
 
+== Screenshots ==
+
+1. The IP list screen. Per page, minimum amount and sort order configurable.
+2. The export screen. The IP addresses come pre selected. Just copy them to clipboard.
+
 == Changelog ==
 
 = 1.0 =
