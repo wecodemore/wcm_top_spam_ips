@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Piet Bos <piet@senlinonline.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:147
+msgid "Amount"
+msgstr "Hoeveelheid"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:1
+msgid "Back"
+msgstr "Terug"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:1
+msgid "Export IPs"
+msgstr "Exporteer IPs"
+
+#. Text in echo
+#: wcm_top_spam_ips-master/inc/export.class.php:47
+msgid "Export: Copy IPs to clipboard."
+msgstr "Export: Kopieer IPs naar clipboard"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:147
+msgid "IP"
+msgstr "IP"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:147
+msgid "Identify Spammer"
+msgstr "Indentificeer Spammer"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:141
+msgid "Set"
+msgstr "Instellen"
+
+#. Text in echo
+#: wcm_top_spam_ips-master/inc/list_table.class.php:26
+msgid "Set minimum amount of spam comments"
+msgstr "Stel minimale hoeveelheid spam comments in"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:89
+msgid "Spam Comment IPs"
+msgstr "Stel minimale hoeveelheid spam comments"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:1
+msgid "Spam IP"
+msgstr "Spam IP"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:1
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:1
+msgid "Spam IPs"
+msgstr "Spam IPs"
+
+#. Text in echo
+#: wcm_top_spam_ips-master/inc/export.class.php:23
+msgid "Use <kbd>CTRL/CMD</kbd>+<kbd>C</kbd> to <strong>copy</strong> the list."
+msgstr "Gebruik <kbd>CTRL/CMD</kbd>+<kbd>C</kbd> om de lijst  <strong>te kopiëren</strong>."
+
