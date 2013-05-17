@@ -10,9 +10,14 @@ This repo is widely open to _any_ sort of contribution.
 Here's a list of things that need to get done:
 
  * A better readme file here
- * Screenshots both for the dot org txt file as well as for this file
- * Generate main translation files
  * Translation into other languages
+ * &check; Screenshots both for the dot org txt file as well as for this file
+ * &check; Generate main translation files
+
+### Ideas how this repo could move forward
+
+This is just a rough draft and should be discussed in either a milestone or a (set) of ticket(s).
+
  * Automatically add all or just a single IP to the `.htaccess`
  * Remove a single IP (or all) from the `.htaccess`
  * Clean `.htaccess` on uninstall
