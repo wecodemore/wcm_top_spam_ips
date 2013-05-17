@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Piet Bos <piet@senlinonline.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:147
+msgid "Amount"
+msgstr "数量"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:1
+msgid "Back"
+msgstr "上个"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:1
+msgid "Export IPs"
+msgstr "出口IP地址"
+
+#. Text in echo
+#: wcm_top_spam_ips-master/inc/export.class.php:47
+msgid "Export: Copy IPs to clipboard."
+msgstr "出口：将IP地址复制到剪贴板。"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:147
+msgid "IP"
+msgstr "IP地址"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:147
+msgid "Identify Spammer"
+msgstr "识别垃圾邮件发送者"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:141
+msgid "Set"
+msgstr "设置"
+
+#. Text in echo
+#: wcm_top_spam_ips-master/inc/list_table.class.php:26
+msgid "Set minimum amount of spam comments"
+msgstr "设置最低金额的垃圾评论"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:89
+msgid "Spam Comment IPs"
+msgstr "垃圾评论的IP地址"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:1
+msgid "Spam IP"
+msgstr "垃圾邮件的IP"
+
+#. Text in function
+#: wcm_top_spam_ips-master/inc/list_table.class.php:1
+#: wcm_top_spam_ips-master/inc/admin_page.class.php:1
+msgid "Spam IPs"
+msgstr "垃圾邮件的IP"
+
+#. Text in echo
+#: wcm_top_spam_ips-master/inc/export.class.php:23
+msgid "Use <kbd>CTRL/CMD</kbd>+<kbd>C</kbd> to <strong>copy</strong> the list."
+msgstr "使用<kbd>CTRL/CMD</kbd>+<kbd>C</kbd>列表<strong>复制</strong>。"
+
