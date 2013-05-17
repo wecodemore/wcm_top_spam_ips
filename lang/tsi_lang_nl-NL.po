@@ -27,7 +27,7 @@ msgstr "Exporteer IPs"
 #. Text in echo
 #: wcm_top_spam_ips-master/inc/export.class.php:47
 msgid "Export: Copy IPs to clipboard."
-msgstr "Export: Kopieer IPs naar clipboard"
+msgstr "Export: Kopieer IPs naar clipboard."
 
 #. Text in function
 #: wcm_top_spam_ips-master/inc/list_table.class.php:147
@@ -52,7 +52,7 @@ msgstr "Stel minimale hoeveelheid spam comments in"
 #. Text in function
 #: wcm_top_spam_ips-master/inc/admin_page.class.php:89
 msgid "Spam Comment IPs"
-msgstr "Stel minimale hoeveelheid spam comments"
+msgstr "Spam Comment IPs"
 
 #. Text in function
 #: wcm_top_spam_ips-master/inc/list_table.class.php:1
