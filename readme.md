@@ -31,7 +31,7 @@ This is just a rough draft and should be discussed in either a milestone or a (s
 
 ## HowTo block IP addresses
 
-&hellip;or IP ranges via the `.htaccess` file.
+…or IP ranges via the `.htaccess` file.
 
 ```
 	# Start IP block
