@@ -11,8 +11,8 @@ Here's a list of things that need to get done:
 
  * A better readme file here
  * Translation into other languages
- * &#x2713; Screenshots both for the dot org txt file as well as for this file
- * &#x2713; Generate main translation files
+ * ✓ Screenshots both for the dot org txt file as well as for this file
+ * ✓ Generate main translation files
 
 ### Ideas how this repo could move forward
 
