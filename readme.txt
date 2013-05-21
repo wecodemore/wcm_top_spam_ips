@@ -57,6 +57,7 @@ allow from all
 
 1. The IP list screen. Per page, minimum amount and sort order configurable.
 2. The export screen. The IP addresses come pre selected. Just copy them to clipboard.
+3. The IP list screen with a larger set of unsorted spam IPs.
 
 == Changelog ==
 
