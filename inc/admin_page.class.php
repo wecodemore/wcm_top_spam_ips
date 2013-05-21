@@ -77,6 +77,7 @@ class SIPAdminPage
 	{
 		$target = admin_url( get_current_screen()->parent_file );
 		$target = add_query_arg( 'page', $_REQUEST['page'], $target );
+		$target = add_query_arg( 'amount', TSIData::get_amount(), $target );
 		! isset( $_GET['export'] )
 			AND $target = add_query_arg( 'export', 'true', $target );
 
