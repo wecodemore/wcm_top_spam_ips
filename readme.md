@@ -24,10 +24,28 @@ Here's a list of things that need to get done:
  Thanks in advance for any contributions. Your work will be honored with a link to your
  wordpress dot org profile in the "Contributors" section of the Readme file.
 
+## HowTo block IP addresses
+
+…or IP ranges via the `.htaccess` file.
+
+```
+	# Start IP block
+	order allow,deny
+	# Block single IP example
+	deny from 123.45.6.7
+	# Block IP range example
+	deny from 012.34.5.
+	allow from all
+	# End IP block
+```
+
 ## Screenshots
 
-A short preview with too less Spam IP addresses.
+A short preview with too little Spam IP addresses.
 
 ![The IP list screen. Per page, minimum amount and sort order configurable.](screenshot-1.png "List Screen")
 ---
 ![The export screen. The IP addresses come pre selected. Just copy them to clipboard.](screenshot-2.png "Export Screen")
+---
+![The IP list screen with a larger set of unsorted spam IPs.](screenshot-3.png "List Screen")
+---
