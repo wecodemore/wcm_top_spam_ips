@@ -30,4 +30,7 @@ A short preview with too less Spam IP addresses.
 
 ![The IP list screen. Per page, minimum amount and sort order configurable.](screenshot-1.png "List Screen")
 ---
+![The IP list screen.](screenshot-3.png "List Screen")
+---
 ![The export screen. The IP addresses come pre selected. Just copy them to clipboard.](screenshot-2.png "Export Screen")
+---
