@@ -10,7 +10,11 @@ This repo is widely open to _any_ sort of contribution.
 Here's a list of things that need to get done:
 
  * A better readme file here
- * Translation into other languages
+ * Translation into other languages (German, Mandarin Chinese & Nederlands already done)
+ * Make a better export screen:
+ 	A) Add `deny from` to every line
+ 	B) Add open/close for block `order allow,deny` and `allow from all`.
+ 	C) Add an algorithm that checks for ranges and summons them under `deny from 012.34.5.`
  * ✓ Screenshots both for the dot org txt file as well as for this file
  * ✓ Generate main translation files
 
