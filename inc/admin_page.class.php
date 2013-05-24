@@ -35,7 +35,7 @@ class SIPAdminPage
 	{
 		$this->page_hook = add_submenu_page(
 			'tools.php',
-			'tsi_page',
+			__( 'Spam IPs', 'tsi_lang' ),
 			__( 'Spam IPs', 'tsi_lang' ),
 			'manage_options',
 			'tsi',
