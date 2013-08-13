@@ -1,0 +1,16 @@
+{
+    "name": "wecodemore/top_spam_ips",
+    "description": "A WordPress plugin that collects the Top Spam IP addresses and lists them on a new admin tools page. Allows to export them and to block via your .htaccess file.",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "franz-josef-kaiser",
+            "email": "wecodemore@gmail.com"
+        }
+    ],
+    "require"     : {
+        "composer/installers"          : "~1.0",
+        "php"                          : ">=5.2.4"
+    }
+}
