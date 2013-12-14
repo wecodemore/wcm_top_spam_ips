@@ -1,5 +1,5 @@
 === Top Spam IPs ===
-Contributors: F J Kaiser, toscho, sergejmueller, TJNowell
+Contributors: F J Kaiser, toscho, sergejmueller, TJNowell, latz, senlin
 Donate Link: http://unserkaiser.com/donate/
 Tags: comments, spam, wcm, wecodemore, ip, prevent, block, anti, bot, botnet, security
 Author URI: http://unserkaiser.com
