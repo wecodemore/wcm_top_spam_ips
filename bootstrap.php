@@ -6,7 +6,7 @@ defined( 'ABSPATH' ) OR exit;
  * Plugin URI:  https://github.com/wecodemore/
  * Author:      Franz Josef Kaiser <wecodemore@gmail.com>
  * Author URI:  http://unserkaiser.com
- * Version:     1.0
+ * Version:     1.1
  * Domain Path:
  * Text Domain: tsi_lang
  * Network:
