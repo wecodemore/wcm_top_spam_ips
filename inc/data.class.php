@@ -23,7 +23,7 @@ final class TSIData
 		return $orderby;
 	}
 
-	public function get_amount()
+	public static function get_amount()
 	{
 		return isset( $_POST['amount'] )
 			? absint( esc_attr( $_POST['amount'] ) )
