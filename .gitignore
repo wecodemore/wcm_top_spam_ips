@@ -1,5 +1,5 @@
 # Usual suspects
-.DSSTORE
+.DS_STORE
 
 # SVN
 .svn
@@ -38,7 +38,7 @@ psd
 
 
 # Everything that gets added by composer.
-vendor/*
+vendor
 
 ## Composer ##
 # Do NOT ignore composer files. This is
@@ -57,3 +57,4 @@ vendor/*
 # and also update the lock file with the new version.
 
 composer.phar
+composer.lock
