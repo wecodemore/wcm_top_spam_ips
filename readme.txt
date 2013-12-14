@@ -1,5 +1,5 @@
 === Top Spam IPs ===
-Contributors: F J Kaiser, toscho
+Contributors: F J Kaiser, toscho, sergejmueller, TJNowell
 Donate Link: http://unserkaiser.com/donate/
 Tags: comments, spam, wcm, wecodemore, ip, prevent, block, anti, bot, botnet, security
 Author URI: http://unserkaiser.com
@@ -60,6 +60,12 @@ allow from all
 3. The IP list screen with a larger set of unsorted spam IPs.
 
 == Changelog ==
+
+= 1.1 =
+
+ * Bug Fix: Missing list table on admin/theme customizer page
+ * Bug Fix: Non-static method called statically
+ * Performance: Don't load the list table if we don't need it.
 
 = 1.0 =
 
