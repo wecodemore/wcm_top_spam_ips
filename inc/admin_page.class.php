@@ -106,6 +106,7 @@ class SIPAdminPage
 			}
 			else
 			{
+				require_once plugin_dir_path( __FILE__ )."list_table.class.php";
 				new TSIListTable();
 			}
 			?>

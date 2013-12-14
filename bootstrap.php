@@ -46,7 +46,14 @@ final class TSIBootstrap
 	 */
 	public function load_files()
 	{
-		foreach ( glob( plugin_dir_path( __FILE__ ).'inc/*.php' ) as $file )
+		$files = glob( plugin_dir_path( __FILE__ )."inc/*.php" );
+		$key = array_search(
+			plugin_dir_path( __FILE__ )."inc/list_table.class.php",
+			$files,
+			true
+		);
+		unset( $files[ $key ] );
+		foreach ( $files as $file )
 			require_once $file;
 	}
 
