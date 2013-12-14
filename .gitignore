@@ -1,0 +1,59 @@
+# Usual suspects
+.DSSTORE
+
+# SVN
+.svn
+
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+##############
+# VCS
+##############
+# Mercurial
+.hg
+
+##############
+# IDE
+##############
+# Eclipse/Aptana IDE
+.buildpath
+.project
+.settings
+
+# PHPStorm
+.idea
+.idea/*
+
+# Netbeans
+nbproject/*
+
+# PSD/AI
+assets
+.assets
+psd
+.psd
+
+
+# Everything that gets added by composer.
+vendor/*
+
+## Composer ##
+# Do NOT ignore composer files. This is
+# important because the install command checks if
+# a lock file is present, and if it is,
+# it downloads the versions specified there
+# (regardless of what composer.json says).
+# This means that anyone who sets up the project
+# will download the exact same version of the dependencies.
+# This means that if any of the dependencies get a
+# new version, you won't get the updates automatically.
+# To update to the new version, use update command.
+# This will fetch the latest matching versions
+#
+# (according to your composer.json file)
+# and also update the lock file with the new version.
+
+composer.phar
